@@ -1,3 +1,4 @@
+<img width="1920" height="1080" alt="Ekran Görüntüsü (77)" src="https://github.com/user-attachments/assets/ba26f356-3a8b-4c81-8776-406caf953e5c" />
 # PES Draft: Ea Fc 26 Simulation 🎲
 
 An interactive, tactical EA FC 26 draft simulator that allows two players to draft squads, perform strategic trades, and optimize team formations based on real-world player datasets.
