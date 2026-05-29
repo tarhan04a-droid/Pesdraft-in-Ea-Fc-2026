@@ -1,4 +1,4 @@
-# PES Draft: God Mode 🎲
+# PES Draft: Ea Fc 26 Simulation 🎲
 
 An interactive, tactical EA FC 26 draft simulator that allows two players to draft squads, perform strategic trades, and optimize team formations based on real-world player datasets.
 
