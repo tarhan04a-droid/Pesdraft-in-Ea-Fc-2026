@@ -25,4 +25,4 @@ This project is a **standalone simulation engine**. It does not automatically fe
 1. Clone this repo:
 ```bash
    git clone [https://github.com/tarhan04a-droid/Pesdraft-in-Ea-Fc-2026.git](https://github.com/tarhan04a-droid/Pesdraft-in-Ea-Fc-2026.git)
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ba002df1-ec71-4e1c-8e5c-372ce2f4304e" />
+
